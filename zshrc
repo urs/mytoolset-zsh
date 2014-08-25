@@ -12,6 +12,5 @@ source $ZSH_HOME/completion.zsh
 source $ZSH_HOME/history.zsh
 source $ZSH_HOME/powerline.zsh
 source $ZSH_HOME/rvm.zsh
-source $ZSH_HOME/tmux.zsh
 source $ZSH_HOME/vcs.zsh
 source $ZSH_HOME/env.zsh

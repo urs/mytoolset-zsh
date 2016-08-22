@@ -7,3 +7,8 @@ my configurations for [Z Shell](http://www.zsh.org/)
     $ git clone https://github.com/thiagoalessio/mytoolset-zsh.git
     $ cd mytoolset-zsh
     $ ln -s "`pwd`/zshrc" ~/.zshrc
+
+## Installation of powerline
+
+    OSX:
+    pip install --user powerline-status

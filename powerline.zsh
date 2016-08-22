@@ -17,4 +17,6 @@ fi
 if [[ -r $POWERLINE_PATH/site-packages/powerline/bindings/zsh/powerline.zsh ]]; 
 then 
   source $POWERLINE_PATH/site-packages/powerline/bindings/zsh/powerline.zsh
+  PROMPT=$PROMPT"
+→ "
 fi

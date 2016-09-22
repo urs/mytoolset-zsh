@@ -13,6 +13,10 @@ my configurations for [Z Shell](http://www.zsh.org/)
     OSX:
     pip install --user powerline-status
 
+    patched font:
+    git clone https://github.com/powerline/fonts.git
+    Run ./install.sh to install all Powerline Fonts or see the documentation for details.
+
 
 ## Installation of fish-like-autosuggest
 

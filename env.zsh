@@ -1,5 +1,5 @@
 export EDITOR=vim
 
-bindkey '^[[1;5D' backward-word
-bindkey '^[[1;5C' forward-word
-bindkey -e
+#bindkey '^[[1;5D' backward-word
+#bindkey '^[[1;5C' forward-word
+#bindkey -e

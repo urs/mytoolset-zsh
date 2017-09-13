@@ -16,3 +16,6 @@ source $ZSH_HOME/rvm.zsh
 source $ZSH_HOME/vcs.zsh
 source $ZSH_HOME/env.zsh
 
+source /etc/profile
+source ~/.profile
+
